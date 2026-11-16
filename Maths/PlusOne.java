@@ -47,3 +47,5 @@ public class PlusOne {
         return result;
     }
 }
+// Time Complexity = O(n)
+// Space Complexity = O(n)

@@ -17,3 +17,5 @@ public class ReverseInteger{
         System.out.println((int) reverse);
     }
 }
+// Time Complexity = O(d) where d is the number of the digits
+// Space Complexity = O(1)

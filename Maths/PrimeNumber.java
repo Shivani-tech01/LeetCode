@@ -24,3 +24,5 @@ public class PrimeNumber {
         sc.close();
     }
 }
+//Time Complexity = O(n under root n);
+//Space Complexity = O(1)
