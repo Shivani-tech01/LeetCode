@@ -29,3 +29,5 @@ public class AddBinary {
         sc.close();
     }
 }
+//Time Complexity: O(n + m)
+//Space Complexity: O(n + m)
