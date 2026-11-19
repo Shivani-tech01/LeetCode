@@ -16,3 +16,5 @@ public class PowerOf2{
 
     }
 }
+// Time Complexity : O(log n )
+//Space complexity : O(1)

@@ -7,9 +7,9 @@ public class ReverseInteger{
         int x = sc.nextInt();
         long reverse=0;
         while(x != 0){
-            int digit = x % 10;
-            reverse = reverse * 10 + digit;
-            x = x / 10;
+            int digit = x % 10; // last digit 
+            reverse = reverse * 10 + digit; // reverse 
+            x = x / 10; //remove last digit 
         }
         if(reverse > Integer.MAX_VALUE || reverse < Integer.MIN_VALUE){
             System.out.println(0);
