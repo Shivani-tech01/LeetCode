@@ -1,8 +1,7 @@
 
 import java.math.BigInteger;
 import java.util.Scanner;
-
-public class AddBinary {
+class AddBinary {
 
     public static String addBinary(String a, String b) {
 

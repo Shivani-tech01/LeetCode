@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class PlusOne {
+class PlusOne {
 
     public static void main(String[] args) {
 

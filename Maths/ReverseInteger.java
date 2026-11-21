@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class ReverseInteger{
+class ReverseInteger{
     public static void main(String[] args){
         Scanner sc = new Scanner (System.in);
         int x = sc.nextInt();
